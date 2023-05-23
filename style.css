@@ -43,7 +43,7 @@ ul {
 }
 
 .icons-sec ion-icon {
-  /* display: none; */
+  display: none;
 }
 .icons-sec .eye-off {
   display: none;
@@ -54,9 +54,7 @@ ul {
   width: 100%;
   background-color: aqua;
 }
-.icons-sec {
-   
-}
+
 
 
 
