@@ -29,7 +29,7 @@ position: relative;
 }
 .navbarr li {
 list-style: none;
-padding: 5px 10px;
+padding: 15px 10px;
 
 
 }
@@ -92,6 +92,7 @@ ul {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  padding: 20px 0;
  }
  .active .navbar-left {
   opacity: 1;
